@@ -1,8 +1,8 @@
-import logo from "./logo.svg";
 import "./App.css";
-import Sample from "./components/Sample.js";
+import Todo from "./components/Todo.js";
+
 function App() {
-  return <Sample />;
+  return <Todo />;
 }
 
 export default App;
